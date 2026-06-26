@@ -111,8 +111,6 @@ how-agent-loop-engineering/
 │   ├── 06-避坑指南.md
 │   ├── 07-动手实战.md
 │   └── 08-总结与展望.md
-├── images/            # 架构图
-├── scripts/           # 图片生成脚本
 ├── README.md
 ├── README.en.md       # English version
 └── LICENSE

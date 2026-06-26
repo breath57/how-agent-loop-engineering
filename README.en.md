@@ -111,8 +111,6 @@ how-agent-loop-engineering/
 │   ├── 06-Pitfall-Guide.md
 │   ├── 07-Hands-On-Build.md
 │   └── 08-Summary-Outlook.md
-├── images/            # Architecture diagrams
-├── scripts/           # Image generation scripts
 ├── README.md          # Chinese version
 ├── README.en.md       # English version
 └── LICENSE
